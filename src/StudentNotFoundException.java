@@ -13,6 +13,7 @@ public class StudentNotFoundException extends Exception {
     private final int studentId;
 
     /**
+     * 
      * Constructs a StudentNotFoundException with a descriptive message
      * and the missing student ID.
      *
